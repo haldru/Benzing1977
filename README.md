@@ -1,4 +1,4 @@
-# GND-Nummern zu halleschen Verlegern des 16. und 17. Jahrhunderts
+# GND-Nummern von halleschen Verlegern des 16. und 17. Jahrhunderts
 
 > [`data/gnd.json`](./data/gnd.json)
 
