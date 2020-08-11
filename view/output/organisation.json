@@ -1,0 +1,65 @@
+{
+  "6146285-8": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@type": "organisation",
+    "@id": "https://d-nb.info/gnd/6146285-8",
+    "preferredName": "Johann Fick Witwe und Erben",
+    "describedBy": {
+      "valid": "2020-08-11T02:56:57Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/6146285-8"
+    },
+    "variantName": [
+      "Johann Fikius Witwe und Erben",
+      "Johann Fickens Witwe und Erben",
+      "Bibliopoleum Fikianum (Halle (Saale))"
+    ],
+    "placeOfBusiness": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DXDE",
+        "preferredName": "Deutschland, Deutsches Reich"
+      }
+    ],
+    "isA": [
+      {
+        "@id": "https://d-nb.info/gnd/4063004-3",
+        "preferredName": "Verlag"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/6146285-8/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/organization/gnd/6146285-8",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/146153137",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  }
+}
